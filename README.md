@@ -1,17 +1,19 @@
-# 2D Car Racing Game in C++ (2D, Car Racing, C++)
+# 🚗 2D Car Racing Game in C++
 
-A simple **2D car racing game** built in **C++** using `graphics.h` / **OpenGL** / **SDL**.
-Features: AI opponents, collision detection, score system, keyboard controls.
+A simple **2D Car Racing Game** built in **C++** using `graphics.h`.
 
-## How to run
-1. Clone the repo
-2. Build with Code::Blocks / g++ / CMake
-3. Run `./car_racing`
+## 🎮 Gameplay Preview
 
-## Features
-- 2D car physics and collision
-- Score & levels
-- Controls: arrow keys / WASD
+![Gameplay Screenshot](screenshots/gameplay.png)
+![Menu Screenshot](screenshots/menu.png)
 
-## Keywords
-2D, Car Racing, C++, Game, opengl, sdl, graphics, racing-game
+## 🧠 Features
+- Car movement with arrow keys  
+- Collision detection  
+- Score tracking  
+- Simple interface
+
+## 🛠️ Technologies
+- **C++**
+- **graphics.h**
+
