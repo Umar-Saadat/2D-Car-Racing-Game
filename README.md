@@ -4,16 +4,21 @@ A simple **2D Car Racing Game** built in **C++** using `graphics.h`.
 
 ## 🎮 Gameplay Preview
 
-![Gameplay Screenshot](gameplay.png)
+Here are some screenshots of the game:
+
+### 🏁 Menu Screen
 ![Menu Screenshot](menu.png)
 
-## 🧠 Features
+### 🚗 Gameplay
+![Gameplay Screenshot](gameplay.png)
+
+## ✨ Features
 - Car movement with arrow keys  
 - Collision detection  
 - Score tracking  
-- Simple interface
+- Simple interface and graphics  
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 - **C++**
 - **graphics.h**
 
